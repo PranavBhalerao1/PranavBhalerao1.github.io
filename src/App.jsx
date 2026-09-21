@@ -3,8 +3,8 @@ import './index.css'
 const externalLinks = {
   research: '#research-projects',
   github: 'https://github.com/PranavBhalerao1',
-  linkedin: 'https://www.linkedin.com/in/pranav-bhalerao/',
-  email: 'mailto:pranav@pranavbhalerao.me',
+  linkedin: 'https://www.linkedin.com/in/pranavrbhalerao',
+  email: 'mailto:pranavbh@stanford.edu',
 }
 
 const projects = [
